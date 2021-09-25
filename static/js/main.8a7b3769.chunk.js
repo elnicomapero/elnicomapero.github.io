@@ -1,0 +1,2 @@
+(this["webpackJsonpelnicomapero.github.io"]=this["webpackJsonpelnicomapero.github.io"]||[]).push([[0],{4:function(e,o,t){"use strict";t.r(o);t(0);var n=t(3),r=t.n(n),i=t(2),c=function(){return Object(i.jsx)("h1",{children:"Hello there, elnicomapero's World!"})};r.a.render(Object(i.jsx)(c,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.8a7b3769.chunk.js.map
